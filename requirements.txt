@@ -1,7 +1,8 @@
 streamlit
+PyPDF2
+rapidfuzz
 pandas
 numpy
-PyPDF2
 scikit-learn
 nltk
 spacy
@@ -11,6 +12,3 @@ pdfplumber
 requests
 matplotlib
 joblib
-resume_processing
-utils
-rapidfuzz
