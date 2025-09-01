@@ -11,3 +11,6 @@ pdfplumber
 requests
 matplotlib
 joblib
+resume_processing
+utils
+rapidfuzz
