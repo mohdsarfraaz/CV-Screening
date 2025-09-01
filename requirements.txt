@@ -4,4 +4,10 @@ numpy
 PyPDF2
 scikit-learn
 nltk
+spacy
 openpyxl
+python-docx
+pdfplumber
+requests
+matplotlib
+joblib
